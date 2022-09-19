@@ -1,0 +1,11 @@
+version: 2.0.1
+files:
+  - url: flomo-2.0.1-x64.dmg
+    sha512: 3xixzVitXdohQ353Duk+fMNYHobeq4yKhCCHm5ZfzhJ5d3EYuIE2sfqzOJwN8j4RSFXuTJ48i/XT0alBWXxoGQ==
+    size: 87256969
+  - url: flomo-2.0.1-arm64.dmg
+    sha512: CWVB517gghfd6Oud2V7HMDdR13oTAYBqB04aUZQEud5SeCsJm9vDBnK7vOZ0JpaTzvfhZdl/HVPjaSCiYLODdA==
+    size: 87376028
+path: flomo-2.0.1-x64.dmg
+sha512: 3xixzVitXdohQ353Duk+fMNYHobeq4yKhCCHm5ZfzhJ5d3EYuIE2sfqzOJwN8j4RSFXuTJ48i/XT0alBWXxoGQ==
+releaseDate: '2022-09-19T08:52:10.766Z'
